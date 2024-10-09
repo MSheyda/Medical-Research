@@ -28,7 +28,7 @@ h1 {
     text-align: left;
 }
 
-.class {
+.E4 {
     margin: 2px;
     padding: 5px;
     border: solid;
@@ -125,9 +125,7 @@ caption {
 dl {
     line-height: 1.4;
 }
-.E3, legend {
-    background-color: none;
-}
+
 fieldset{
     background-color: #8BBF9F;
 }
