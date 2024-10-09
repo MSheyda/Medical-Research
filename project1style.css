@@ -1,0 +1,144 @@
+body {
+    padding: 2%;
+    background-color: #DFFFD6;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+h1 {
+    margin: 2px;
+    padding: 5px;
+    border: solid;
+    border-radius: 20px;
+    
+    font-family: cursive;
+    background-color: #A9DBB8;
+}
+.topic {
+    margin: 2px 80% 2px 2px;
+    padding: 5px 0% 1px 1px;
+    padding-right: 1px;
+    border: solid;
+    border-radius: 10px;
+    border-color: #6E9075;
+    background-color: #78C091;
+}
+
+.new {
+    text-align: left;
+}
+
+.class {
+    margin: 2px;
+    padding: 5px;
+    border: solid;
+    border-radius: 20px;
+    border-color: #6E9075;
+}
+main {
+    margin: 5px;
+    padding: 5px;
+}
+h3 {
+    margin: 2px;
+    padding: 5px;
+    font-family: cursive;
+}
+
+h2 {
+    margin: 2px;
+    padding: 5px;
+    font-family: cursive;
+    border: solid;
+    border-radius: 20px;
+    background-color: #A9DBB8;
+}
+
+hr {
+    color: black;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-indent: 0.25em;
+    line-height: 1.4;
+}
+
+h3 {
+    text-align: left;
+
+}
+
+
+.none {
+    text-align: left;
+}
+
+.left {
+    text-align: left;
+}
+
+ul a:visited {
+    color: blue;
+    
+}
+ul {
+    text-align: left;
+    line-height: 1.4;
+}
+
+ul a:hover {
+    color: #031927;
+}
+
+.summary {
+    text-align: left;
+}
+
+table, tr, th, td {
+    border: 1px solid #6E9075;
+    font-family: cursive;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    width: 800px;
+    height: 50px;
+    background-color: #78C091;
+    
+}
+caption {
+    border: 1px solid #6E9075;
+    border-radius: 10px;
+    font-family: cursive;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    width: 800px;
+    height: 50px;
+    background-color: #6E9075;
+}
+
+.heart {
+    text-align: left;
+    border: #6E9075;
+    border-radius: 70px;
+}
+
+dl {
+    line-height: 1.4;
+}
+.E3, legend {
+    background-color: none;
+}
+fieldset{
+    background-color: #8BBF9F;
+}
+
+
+.E2 a:visited {
+    color: blue;
+    
+}
+
+.E2 a:hover {
+    color: #031927;
+}
+ 
